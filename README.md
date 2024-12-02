@@ -37,5 +37,3 @@
 
    ## 🤝 Contributing
    This repository is a personal project, but feedback is welcome! Open an issue or reach out to me if you'd like to share suggestions.
-   ```
-
