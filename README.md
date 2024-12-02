@@ -14,7 +14,7 @@
    | Day  | Problem Description               | Solution File                                    | Status        |
    |------|-----------------------------------|--------------------------------------------------|---------------|
    | 1    |Historian Hysteria                 | [day1.cpp](./day1.cpp),[day1_2.cpp](./day1_2.cpp)|✅Completed    |  
-   | 2    |Red-Nosed Reports                  | [day2.cpp](./day2.cpp),[day2_2.cpp](./day2_2.cpp)|               |
+   | 2    |Red-Nosed Reports                  | [day2.cpp](./day2.cpp),[day2_2.cpp](./day2_2.cpp)|✅Completed    |
 
    ## 📂 How to Run
    1. Clone the repository:
