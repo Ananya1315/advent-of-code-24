@@ -26,8 +26,8 @@ Yes, you can create and edit a `README.md` directly on GitHub without needing to
    ## 🚀 Progress
    | Day  | Problem Description               | Solution File                                    | Status        |
    |------|-----------------------------------|--------------------------------------------------|---------------|
-   | 1    |TOTAL DISTANCE AND SIMILARITY SCORE| [day1.cpp](./day1.cpp),[day1_2.cpp](./day1_2.cpp)| ✅ Completed |
-   
+   | 1    |Historian Hysteria                 | [day1.cpp](./day1.cpp),[day1_2.cpp](./day1_2.cpp)| ✅ Completed |
+   | 2    |Red-Nosed Reports                  | [day2.cpp](./day2.cpp),[day2_2.cpp](./day2_2.cpp)| |
 
    ## 📂 How to Run
    1. Clone the repository:
