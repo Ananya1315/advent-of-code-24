@@ -1,17 +1,4 @@
-# advent-of-code-24
-Yes, you can create and edit a `README.md` directly on GitHub without needing to use Git locally. Here's how to do it:
-
-### **Step 1: Create `README.md` on GitHub**
-1. Go to your repository on GitHub.
-2. On the main page of your repository, click on the **Add file** button and select **Create new file**.
-3. In the "Name your file" field, type `README.md`.
-
-### **Step 2: Add Content to `README.md`**
-1. In the text editor that appears, paste the content you want for your `README.md` file. For example, you can use the template I provided earlier.
-   
-   Example:
-   ```markdown
-   # Advent of Code 2024 Solutions
+# Advent of Code 2024 Solutions
 
    This repository contains my solutions for the [Advent of Code 2024](https://adventofcode.com/2024), a series of daily coding challenges during December.
 
@@ -26,8 +13,8 @@ Yes, you can create and edit a `README.md` directly on GitHub without needing to
    ## 🚀 Progress
    | Day  | Problem Description               | Solution File                                    | Status        |
    |------|-----------------------------------|--------------------------------------------------|---------------|
-   | 1    |Historian Hysteria                 | [day1.cpp](./day1.cpp),[day1_2.cpp](./day1_2.cpp)| ✅ Completed |
-   | 2    |Red-Nosed Reports                  | [day2.cpp](./day2.cpp),[day2_2.cpp](./day2_2.cpp)| |
+   | 1    |Historian Hysteria                 | [day1.cpp](./day1.cpp),[day1_2.cpp](./day1_2.cpp)|✅Completed    |  
+   | 2    |Red-Nosed Reports                  | [day2.cpp](./day2.cpp),[day2_2.cpp](./day2_2.cpp)|               |
 
    ## 📂 How to Run
    1. Clone the repository:
@@ -50,11 +37,5 @@ Yes, you can create and edit a `README.md` directly on GitHub without needing to
 
    ## 🤝 Contributing
    This repository is a personal project, but feedback is welcome! Open an issue or reach out to me if you'd like to share suggestions.
-   ```
-
-2. After pasting your content, scroll down to the **Commit new file** section.
-3. You can add a commit message, such as:
-   ```
-   Add README.md with project details
    ```
 
