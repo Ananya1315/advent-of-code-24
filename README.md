@@ -15,6 +15,7 @@
    |------|-----------------------------------|--------------------------------------------------|---------------|
    | 1    |Historian Hysteria                 | [day1.cpp](./day1.cpp),[day1_2.cpp](./day1_2.cpp)|✅Completed    |  
    | 2    |Red-Nosed Reports                  | [day2.cpp](./day2.cpp),[day2_2.cpp](./day2_2.cpp)|✅Completed    |
+   | 3    |Mull It Over                       | [day3.cpp](./day3.cpp),[day3_2.cpp](./day3_2.cpp)|               |
 
    ## 📂 How to Run
    1. Clone the repository:
